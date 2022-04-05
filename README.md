@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iBel251
+- 👋 Hi, I’m Imran Belete
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning at Microverse.
 - 💞️ I’m looking to collaborate on any challenging projects.
 - 📫 How to reach me - whatsapp(+251921598162) - Line(imax251)
 
