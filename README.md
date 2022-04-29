@@ -10,7 +10,7 @@
 
 ```
 ---
-<img align="right" src="https://user-images.githubusercontent.com/93576145/165983520-9e9bde5d-c4d8-481d-a412-7f0aea0a1cec.gif">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/93576145/165983520-9e9bde5d-c4d8-481d-a412-7f0aea0a1cec.gif">
 <h2 align="center">
 
 ### Connect with me:
