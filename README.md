@@ -22,6 +22,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/imran.bel_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/imran.bel_#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/email.svg)](mailto:ibbimran7@gmail.com#gh-light-mode-only)
+[![website](./img/email.svg)](mailto:ibbimran7@gmail.com#gh-dark-mode-only)
 
 🛠️ Languages and Tools:
 <table align="center">
