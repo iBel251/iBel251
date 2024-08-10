@@ -3,10 +3,10 @@
 ```
 ## I'm a full-stack developer, music lover and part time chess player!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently updating with the trending technologies.
 - 👯 I’m looking to collaborate with other developers around the world
-- 🥅 2022 Goals: Learn more languages.
-- ⚡ Fun fact: I love ancient musics.
+- 🥅 2025 Goals: Learn, Read & work more
+- ⚡ Fun fact: I love ancient (pre historic) musics.
 
 ```
 ---
